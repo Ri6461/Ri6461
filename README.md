@@ -1,5 +1,27 @@
-# 💫 About Me:
-👋 Hi, I’m Rabin<br>👀 I’m interested in coding and cricket<br>🌱 I’m currently learning Fast api(Python)<br>💞️ I’m looking to collaborate on Backend dev Projects<br>📫 How to reach me : rabinpaudel6164@gmail.com
+# Hi, I’m Rabin! 👋
+
+Welcome to my GitHub profile! Here’s a bit about me:
+
+- 👀 I’m interested in coding and cricket.
+- 🌱 I’m currently learning the FastAPI framework with Python.
+- 💞️ I’m looking to collaborate on backend development projects.
+- 📫 How to reach me: [rabinpaudel6164@gmail.com](mailto:rabinpaudel6164@gmail.com)
+
+## About Me
+
+I’m Rabin, a passionate coder who loves working on backend technologies and exploring new frameworks. My current focus is on mastering FastAPI to build efficient and scalable backend services. I’m always eager to learn and collaborate on interesting projects.
+
+## Current Focus
+
+I’m diving into FastAPI to understand its powerful features and capabilities. If you have any exciting backend projects or ideas, I’d love to collaborate and contribute!
+
+## Projects
+
+Check out my [repositories](https://github.com/Ri6461) to see what I’m working on!
+
+## Collaborations
+
+If you’re interested in collaborating on backend development projects or just want to connect, feel free to reach out!
 
 
 ## 🌐 Socials:
