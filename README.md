@@ -17,7 +17,7 @@ I’m diving into FastAPI to understand its powerful features and capabilities. 
 
 ## Projects
 
-Check out my [repositories](https://github.com/Ri6461) to see what I’m working on!
+Check out my [repositories](https://github.com/Ri6461?tab=repositories) to see what I’m working on!
 
 ## Collaborations
 
