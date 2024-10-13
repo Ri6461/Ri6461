@@ -1,3 +1,4 @@
+![Cover Image] (https://github.com/Ri6461/Github_coverpage/blob/main/githubCover(rabin.jpg)
 # Hi, I’m Rabin! 👋
 
 Welcome to my GitHub profile! Here’s a bit about me:
