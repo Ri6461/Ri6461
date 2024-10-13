@@ -1,4 +1,4 @@
-![Cover Image] (https://github.com/Ri6461/Github_coverpage/blob/main/assests/githubCover_rabin.jpg)
+![Cover Image](https://github.com/Ri6461/Github_coverpage/blob/main/assests/githubCover_rabin.jpg)
 
 # Hi, I’m Rabin! 👋
 
