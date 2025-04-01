@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - 🌱 I’m currently learning the FastAPI framework with Python.
 - 💞️ I’m looking to collaborate on backend development projects.
 - 📫 How to reach me: [rabinpaudel6164@gmail.com](mailto:rabinpaudel6164@gmail.com)
-- I’m looking to join developer communities where I can learn, grow my skills, and connect with like-minded people. I’d love to network, collaborate on projects, and make great memories along the way.
+
 
 ## About Me
 
@@ -25,6 +25,10 @@ Check out my [repositories](https://github.com/Ri6461?tab=repositories) to see w
 ## Collaborations
 
 If you’re interested in collaborating on backend development projects or just want to connect, feel free to reach out!
+
+## Why I Want To Join The Developers' Community
+
+ I’m looking to join developer communities where I can learn, grow my skills, and connect with like-minded people. I’d love to network, collaborate on projects, and make great memories along the way.
 
 
 ## 🌐 Socials:
