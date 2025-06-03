@@ -26,9 +26,6 @@ Check out my [repositories](https://github.com/Ri6461?tab=repositories) to see w
 
 If you’re interested in collaborating on backend development projects or just want to connect, feel free to reach out!
 
-## Why I Want To Join The Developers' Community
-
- I’m looking to join developer communities where I can learn, grow my skills, and connect with like-minded people. I’d love to network, collaborate on projects, and make great memories along the way.
 
 
 ## 🌐 Socials:
